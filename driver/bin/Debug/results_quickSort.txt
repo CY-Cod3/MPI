@@ -1,0 +1,10 @@
+Number of elements: 8694 --- Runtime: 0.997 milliseconds.
+Number of elements: 2808 --- Runtime: 0.997 milliseconds.
+Number of elements: 45866 --- Runtime: 5.984 milliseconds.
+Number of elements: 19229 --- Runtime: 1.995 milliseconds.
+Number of elements: 99898 --- Runtime: 12.965 milliseconds.
+Number of elements: 536255 --- Runtime: 80.784 milliseconds.
+Number of elements: 659570 --- Runtime: 0.101728 seconds.
+Number of elements: 747862 --- Runtime: 0.118684 seconds.
+Number of elements: 821039 --- Runtime: 0.127659 seconds.
+Number of elements: 876632 --- Runtime: 0.138629 seconds.

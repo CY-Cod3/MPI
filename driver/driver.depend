@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619004502 source:c:\users\david\desktop\projects\mpi\driver\main.cpp
+	<fstream>
+	<cstring>
+
